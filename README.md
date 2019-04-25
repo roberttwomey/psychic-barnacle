@@ -10,16 +10,13 @@ This workshop will explore the use of neural networks for text generation. We wi
 
 NOTE: Please bring a textual corpus to train your model on! (SMS messages, nature documentaries, transcriptions of your childhood journals)
 
-Also, please register in advance for 
-
 ## References: 
 
 - Case Study: GPT-2 
   - Better Language Models and Their Implications - https://openai.com/blog/better-language-models/
   - The AI Text Generator That’s Too Dangerous to Make Public - https://www.wired.com/story/ai-text-generator-too-dangerous-to-make-public/
 - Char-RNN: 
-  - Andrej Karpathy, The Unreasonable Effectiveness of Recurrent Neural Networks 2013.
-  
+  - Andrej Karpathy, The Unreasonable Effectiveness of Recurrent Neural Networks 2015 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Bonus Reading:
   - https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2
   - Some pretty impressive machine-learning generated poetry courtesy of GPT-2 https://boingboing.net/2019/03/15/digital-lit.html
@@ -31,3 +28,7 @@ Also, please register in advance for
 1. Sign up for an account with on [nautilus.optiputer.net](nautilus.optiputer.net); it's free, it's easy to do (especially if you use a gmail address), and you get free computing and storage.
 2. Log into [jupyturhub.nautilus.optiputer.net](jupyturhub.nautilus.optiputer.net), and spawn a new image: 
 ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/jupyterhub_launch.png "Login Screen")
+3. Inside of JupyerLab, start a new terminal: 
+4. Clone this repository: 
+```git clone https://github.com/roberttwomey/text-gen-dh/```
+5. Open the folder and let's work through the jupyter notebooks!
