@@ -24,7 +24,7 @@ NOTE: Please bring a textual corpus to train your model on! (SMS messages, natur
   - “I still think GPT-2 is a brute-force statistical pattern matcher which blends up the internet and gives you back a slightly unappetizing slurry of it when asked", https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/
   - https://towardsdatascience.com/too-powerful-nlp-model-generative-pre-training-2-4cc6afb6655
 
-## Getting started
+## Setup
 1. Sign up for an account with on [nautilus.optiputer.net](nautilus.optiputer.net); it's free, it's easy to do (especially if you use a gmail address), and you get free computing and storage.
 2. Log into [jupyturhub.nautilus.optiputer.net](jupyturhub.nautilus.optiputer.net), and spawn a new image: 
 ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/jupyterhub_launch.png "Login Screen")
