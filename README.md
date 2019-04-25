@@ -25,7 +25,7 @@ NOTE: Please bring a textual corpus to train your model on! (SMS messages, natur
   - https://towardsdatascience.com/too-powerful-nlp-model-generative-pre-training-2-4cc6afb6655
 
 ## Setup
-1. Log into [jupyturhub.nautilus.optiputer.net](jupyturhub.nautilus.optiputer.net), and spawn a new image: ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/jupyterhub_launch.png "Login Screen")
+1. Log into [jupyterhub.nautilus.optiputer.net](jupyterhub.nautilus.optiputer.net), and spawn a new image: ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/jupyterhub_launch.png "Login Screen")
 2. Inside of JupyerLab, start a new terminal: ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/launch_terminal.png "Launch Terminal")
 3. Clone this repository: 
 
