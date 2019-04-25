@@ -28,7 +28,8 @@ NOTE: Please bring a textual corpus to train your model on! (SMS messages, natur
 1. Sign up for an account with on [nautilus.optiputer.net](nautilus.optiputer.net); it's free, it's easy to do (especially if you use a gmail address), and you get free computing and storage.
 2. Log into [jupyturhub.nautilus.optiputer.net](jupyturhub.nautilus.optiputer.net), and spawn a new image: 
 ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/jupyterhub_launch.png "Login Screen")
-3. Inside of JupyerLab, start a new terminal: 
+3. Inside of JupyerLab, start a new terminal:
+![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/launch_terminal.png "Launch Terminal")
 4. Clone this repository: 
 ```git clone https://github.com/roberttwomey/text-gen-dh/```
 5. Open the folder and let's work through the jupyter notebooks!
