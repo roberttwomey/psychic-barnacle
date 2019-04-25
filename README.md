@@ -31,5 +31,7 @@ NOTE: Please bring a textual corpus to train your model on! (SMS messages, natur
 3. Inside of JupyerLab, start a new terminal:
 ![alt_text](https://raw.githubusercontent.com/roberttwomey/text-gen-dh/master/images/launch_terminal.png "Launch Terminal")
 4. Clone this repository: 
+
 ```git clone https://github.com/roberttwomey/text-gen-dh/```
+
 5. Open the folder and let's work through the jupyter notebooks!
