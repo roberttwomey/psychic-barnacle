@@ -1,9 +1,9 @@
 # Text Generation with ML/Recurrent Neural Networks (RNNs)
 
 - UCSD Digital Humanities Research Group. 
-- Time: 2-4pm, Friday April 25
-- Location: Geisel Library Redwood Room
-- Instructor: Robert Twomey [rtwomey@ucsd.edu](roberttwomey.com), [roberttwomey.com](roberttwomey.com)
+- Time: Friday April 25, 2-4pm
+- Location: Redwood Room, Geisel Library, UCSD
+- Instructor: Robert Twomey (art: [roberttwomey.com](roberttwomey.com), rtwomey@ucsd.edu)
 
 ## Description
 This workshop will explore the use of neural networks for text generation. We will discuss a case study, OpenAI’s GPT-2, and then work through hands on examples with char-rnn (an LSTM recurrent neural network RNN), training it on custom data. 
